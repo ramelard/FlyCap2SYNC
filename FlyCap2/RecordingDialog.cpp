@@ -1003,6 +1003,7 @@ void RecordingDialog::StoreCamPtr( CameraBase* pCamera )
 {
 	m_pCameraRec = pCamera;
 	m_videoRecordingPage.StoreCameraPtr(m_pCameraRec);
+	m_serialCom.SetCamera(m_pCameraRec);
 }
 
 void RecordingDialog::UpdateImageCounters()
@@ -1399,6 +1400,7 @@ void RecordingDialog::ChangeState(RecorderState state)
 			{
 				return;
 			}
+			m_serialCom.SerialTransmit(START);
 			break;
 		case STARTED:
 			if ((state != SAVING) && (state != STOPPED))
@@ -1410,6 +1412,8 @@ void RecordingDialog::ChangeState(RecorderState state)
 				::KillTimer(m_hWnd, TIMER_DURATION);
 			if (m_recorderTimerInterval != NULL)
 				::KillTimer(m_hWnd, TIMER_INTERVAL);
+
+			m_serialCom.SerialTransmit(STOP);
 			break;
 		case SAVING:
 			if ((state != STOPPING) && (state != ABORT_SAVING))
