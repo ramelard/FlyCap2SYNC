@@ -157,7 +157,7 @@ BOOL RecordingDialog::OnInitDialog()
 
 	m_radio_NumFrames.SetCheck(BST_CHECKED);
 	m_edit_NumFrames.SetWindowText("0");
-	m_edit_SaveFilePath.SetWindowText("C:\\tmp\\fc2_save");
+	m_edit_SaveFilePath.SetWindowText("X:\\data\\fc2_save");
 
 	m_radio_bufferedMode.SetCheck(BST_CHECKED);
 
@@ -357,7 +357,7 @@ void RecordingDialog::OnBnClickedButtonStartStopVideoRecord()
 				m_saveFrameLoopThread = AfxBeginThread(
 					ThreadSaveFrame, 
 					this, 
-					THREAD_PRIORITY_NORMAL, 
+					THREAD_PRIORITY_HIGHEST, 
 					0, 
 					CREATE_SUSPENDED, 
 					NULL);

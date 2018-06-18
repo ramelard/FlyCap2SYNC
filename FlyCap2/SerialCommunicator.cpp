@@ -22,7 +22,7 @@ SerialCommunicator::~SerialCommunicator()
 void SerialCommunicator::InitSerialTransmit()
 {
 	// Enable serial output
-	camera->WriteRegister(BASE+0x004,0x40000000);
+	camera->WriteRegister(BASE+0x004, 0x40000000);
 	
 	// Verify transmit buffer is ready
 	unsigned int register_val;
@@ -31,7 +31,10 @@ void SerialCommunicator::InitSerialTransmit()
 		MessageBox(NULL, (LPCSTR)L"Transmit buffer not ready",(LPCSTR)L"SerialTransmit Error",MB_OK);
 	}
 
-	// Set baud rate, or use default 19200?
+	// Default baud rate 19200
+	// Set baud rate to 9600, so we don't drop data.
+	//camera->WriteRegister(BASE, 0x050800FF);
+	//camera->WriteRegister(BASE, 0x090800FF);
 }
 
 
