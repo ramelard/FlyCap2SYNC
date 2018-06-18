@@ -1,0 +1,11 @@
+ImageRuntimeVersion: v4.0.30319
+Assembly FlyCapture2GUId, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly FlyCap2CameraControld, Version=2.7.3.8, Culture=neutral, PublicKeyToken=5abeeda345e59824: 
+	hash=None, flags=None
+Assembly FlyCapture2Managedd, Version=2.7.3.8, Culture=neutral, PublicKeyToken=76c6583b4a4585f4: 
+	hash=None, flags=None

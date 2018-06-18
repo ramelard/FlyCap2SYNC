@@ -1,0 +1,85 @@
+﻿Build started 2014-09-08 11:32:05 AM.
+     1>Project "C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCap2\FlyCap2.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\..\include /I..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\FlyCap2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\..\include /I..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\FlyCap2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt AboutDialog.cpp EventStatDialog.cpp FlyCap2_MFC.cpp FlyCap2_MFCDoc.cpp FlyCap2_MFCView.cpp FrameRateCounter.cpp HistogramDialog.cpp HistogramDrawingArea.cpp HistogramPage.cpp ImageRecordingBMPPane.cpp ImageRecordingJPG2KPane.cpp ImageRecordingJPGPane.cpp ImageRecordingPage.cpp ImageRecordingPNGPane.cpp ImageRecordingPXMPane.cpp ImageRecordingTIFFPane.cpp InformationPane.cpp LicenseDialog.cpp MainFrm.cpp ReceivedFrameRateCounter.cpp RecordingDialog.cpp RecordingDialogCommon.cpp RowColPlotPage.cpp SaveImageFileDialog.cpp TreeCtrlX.cpp VideoRecordingH264Pane.cpp VideoRecordingMJPEGPane.cpp VideoRecordingPage.cpp
+         VideoRecordingPage.cpp
+         VideoRecordingMJPEGPane.cpp
+         VideoRecordingH264Pane.cpp
+         TreeCtrlX.cpp
+         SaveImageFileDialog.cpp
+         RowColPlotPage.cpp
+         RecordingDialogCommon.cpp
+         RecordingDialog.cpp
+     1>c:\program files\point grey research\flycapture2\src\flycap2\recordingdialog.cpp(218): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\program files\point grey research\flycapture2\src\flycap2\recordingdialog.cpp(264): warning C4101: 'e' : unreferenced local variable
+         ReceivedFrameRateCounter.cpp
+         MainFrm.cpp
+         LicenseDialog.cpp
+         InformationPane.cpp
+         ImageRecordingTIFFPane.cpp
+         ImageRecordingPXMPane.cpp
+         ImageRecordingPNGPane.cpp
+         ImageRecordingPage.cpp
+         ImageRecordingJPGPane.cpp
+         ImageRecordingJPG2KPane.cpp
+         ImageRecordingBMPPane.cpp
+         HistogramPage.cpp
+         Generating Code...
+         Compiling...
+         HistogramDrawingArea.cpp
+         HistogramDialog.cpp
+         FrameRateCounter.cpp
+         FlyCap2_MFCView.cpp
+     1>c:\program files\point grey research\flycapture2\src\flycap2\flycap2_mfcview.cpp(155): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\program files\point grey research\flycapture2\src\flycap2\flycap2_mfcview.cpp(1228): warning C4244: 'initializing' : conversion from 'const double' to 'const float', possible loss of data
+         FlyCap2_MFCDoc.cpp
+     1>c:\program files\point grey research\flycapture2\src\flycap2\flycap2_mfcdoc.cpp(974): warning C4101: 'saveImageFormat' : unreferenced local variable
+     1>c:\program files\point grey research\flycapture2\src\flycap2\flycap2_mfcdoc.cpp(1261): warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+         FlyCap2_MFC.cpp
+         EventStatDialog.cpp
+         AboutDialog.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0409" /IDebug\ /nologo /fo"Debug\FlyCap2_MFC.res" FlyCap2_MFC.rc 
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1137,5): warning MSB8012: TargetPath(C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCap2\..\..\bin\FlyCap2.exe) does not match the Linker's OutputFile property value (C:\Program Files\Point Grey Research\FlyCapture2\bin\FlyCap2d.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1139,5): warning MSB8012: TargetName(FlyCap2) does not match the Linker's OutputFile property value (FlyCap2d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\bin\FlyCap2d.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\lib64 /LIBPATH:..\..\lib /LIBPATH:..\..\lib Winmm.lib opengl32.lib glu32.lib HTMLHelp.lib psapi.lib FlyCapture2GUId.lib FlyCapture2d.lib Delayimp.lib /DELAYLOAD:FlyCapture2d.dll /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"..\..\bin\FlyCap2.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\bin\FlyCap2.lib" /MACHINE:X86 /SAFESEH Debug\FlyCap2_MFC.res
+         Debug\AboutDialog.obj
+         Debug\EventStatDialog.obj
+         Debug\FlyCap2_MFC.obj
+         Debug\FlyCap2_MFCDoc.obj
+         Debug\FlyCap2_MFCView.obj
+         Debug\FrameRateCounter.obj
+         Debug\HistogramDialog.obj
+         Debug\HistogramDrawingArea.obj
+         Debug\HistogramPage.obj
+         Debug\ImageRecordingBMPPane.obj
+         Debug\ImageRecordingJPG2KPane.obj
+         Debug\ImageRecordingJPGPane.obj
+         Debug\ImageRecordingPage.obj
+         Debug\ImageRecordingPNGPane.obj
+         Debug\ImageRecordingPXMPane.obj
+         Debug\ImageRecordingTIFFPane.obj
+         Debug\InformationPane.obj
+         Debug\LicenseDialog.obj
+         Debug\MainFrm.obj
+         Debug\ReceivedFrameRateCounter.obj
+         Debug\RecordingDialog.obj
+         Debug\RecordingDialogCommon.obj
+         Debug\RowColPlotPage.obj
+         Debug\SaveImageFileDialog.obj
+         Debug\stdafx.obj
+         Debug\TreeCtrlX.obj
+         Debug\VideoRecordingH264Pane.obj
+         Debug\VideoRecordingMJPEGPane.obj
+         Debug\VideoRecordingPage.obj
+     1>AboutDialog.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     1>FlyCapture2d.lib(FlyCapture2d.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCap2\FlyCap2.vcxproj" (Rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:05.50

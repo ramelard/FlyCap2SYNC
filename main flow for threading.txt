@@ -1,0 +1,25 @@
+OUTPUT_TYPE_VIDEO
+static UINT ThreadSaveFrame( void* pparam );
+UINT ThreadSaveFrameHelper();
+
+CFlyCap2_MFCDoc::DoGrabLoop
+  DoRecording
+    ProcesCurrentFrame
+      BufferFrame
+        m_imageBuffer.push_back(*image);
+
+        
+
+StartRecording()
+void StoppingRecording();
+void ProcessCurrentFrame( Image* rawImage);
+Error SaveImage( Image* tmp, ImageRecordingPage::ImageSettings* imageSettings, unsigned int count );
+BOOL BufferFrame(Image* image);
+void UpdateImageCounters();
+
+
+ThreadSaveFrameHelper
+  RetrieveNextImageFromBuffer
+    *image = m_imageBuffer.front();
+		m_imageBuffer.erase(m_imageBuffer.begin());
+  SaveImageToVideo

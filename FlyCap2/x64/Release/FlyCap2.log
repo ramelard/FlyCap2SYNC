@@ -1,0 +1,35 @@
+﻿Build started 2017-01-23 2:36:46 PM.
+     1>Project "E:\ramelard\Projects\PointGrey\FlyCap2\FlyCap2.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files\Point Grey Research\FlyCapture2\include" /Zi /nologo /W3 /WX- /O2 /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _MBCS /D _AFXDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\FlyCap2.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /Gd /TP /wd4099 /errorReport:prompt SerialCommunicator.cpp
+         SerialCommunicator.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"bin64\FlyCap2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files\Point Grey Research\FlyCapture2\lib64" Winmm.lib opengl32.lib glu32.lib psapi.lib FlyCapture2.lib FlyCapture2GUI.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"bin64\FlyCap2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"bin64\FlyCap2.lib" /MACHINE:X64 x64\Release\FlyCap2_MFC.res
+         x64\Release\AboutDialog.obj
+         x64\Release\EventStatDialog.obj
+         x64\Release\FlyCap2_MFC.obj
+         x64\Release\FlyCap2_MFCDoc.obj
+         x64\Release\FlyCap2_MFCView.obj
+         x64\Release\FrameRateCounter.obj
+         x64\Release\HistogramDialog.obj
+         x64\Release\HistogramDrawingArea.obj
+         x64\Release\HistogramPage.obj
+         x64\Release\ImageRecordingPage.obj
+         x64\Release\InformationPane.obj
+         x64\Release\LicenseDialog.obj
+         x64\Release\MainFrm.obj
+         x64\Release\ReceivedFrameRateCounter.obj
+         x64\Release\RecordingDialog.obj
+         x64\Release\RowColPlotPage.obj
+         x64\Release\SerialCommunicator.obj
+         x64\Release\stdafx.obj
+         x64\Release\TreeCtrlX.obj
+         x64\Release\VideoRecordingPage.obj
+         Generating code
+         Finished generating code
+         FlyCap2.vcxproj -> E:\ramelard\Projects\PointGrey\FlyCap2\bin64\FlyCap2.exe
+     1>Done Building Project "E:\ramelard\Projects\PointGrey\FlyCap2\FlyCap2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.66

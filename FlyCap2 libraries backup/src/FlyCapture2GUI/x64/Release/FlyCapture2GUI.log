@@ -1,0 +1,35 @@
+﻿Build started 2014-09-08 12:27:08 PM.
+     1>Project "C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2GUI\FlyCapture2GUI.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\..\include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /O2 /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D FLYCAPTURE2_EXPORT /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\FlyCapture2GUI.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\..\include /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /O2 /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D FLYCAPTURE2_EXPORT /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /errorReport:prompt /clr:nostdlib AssemblyResolver.cpp FlyCap2CameraControl_ILBridge.cpp FlyCap2CameraSelection_ILBridge.cpp FlyCapture2GUI.cpp
+         AssemblyResolver.cpp
+         FlyCap2CameraControl_ILBridge.cpp
+         Using ILBridge_CameraControlDialog - x64|Release
+         FlyCap2CameraSelection_ILBridge.cpp
+         Using ILBridge_CameraSelectionDialog - x64|Release
+         FlyCapture2GUI.cpp
+         Using ILBridge_CameraControlDialog - x64|Release
+         Using ILBridge_CameraSelectionDialog - x64|Release
+         Generating Code...
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /I..\..\include /Zi /clr /nologo /W3 /WX- /O2 /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D FLYCAPTURE2_EXPORT /D _WINDLL /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc110.pdb" /TP /errorReport:prompt "C:\Users\ramelard\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"x64\Release\FlyCapture2GUI.res" FlyCapture2GUI.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\bin64\FlyCapture2GUI.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\bin64\FlyCapture2GUI.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /IMPLIB:"..\..\lib64\FlyCapture2GUI.lib" /MACHINE:X64 /DLL x64\Release\FlyCapture2GUI.res
+         x64\Release\AssemblyResolver.obj
+         x64\Release\FlyCap2CameraControl_ILBridge.obj
+         x64\Release\FlyCap2CameraSelection_ILBridge.obj
+         x64\Release\FlyCapture2GUI.obj
+         x64\Release\stdafx.obj
+         "x64\Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+            Creating library ..\..\lib64\FlyCapture2GUI.lib and object ..\..\lib64\FlyCapture2GUI.exp
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         FlyCapture2GUI.vcxproj -> C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2GUI\..\..\bin64\FlyCapture2GUI.dll
+     1>Done Building Project "C:\Program Files\Point Grey Research\FlyCapture2\src\FlyCapture2GUI\FlyCapture2GUI.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.26

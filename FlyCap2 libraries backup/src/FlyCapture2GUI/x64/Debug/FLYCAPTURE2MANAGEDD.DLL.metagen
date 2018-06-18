@@ -1,0 +1,2794 @@
+ImageRuntimeVersion: v2.0.50727
+Assembly FlyCapture2Managedd, Version=2.7.3.8, Culture=neutral, PublicKeyToken=76c6583b4a4585f4: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly Microsoft.VisualC, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Struct <CppImplementationDetails>.$ArrayType$$$BY0P@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _EXCEPTION_DISPOSITION: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _SID_NAME_USE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _ACL_INFORMATION_CLASS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _AUDIT_EVENT_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _SECURITY_IMPERSONATION_LEVEL: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _TOKEN_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _TOKEN_INFORMATION_CLASS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _JOBOBJECTINFOCLASS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _LOGICAL_PROCESSOR_RELATIONSHIP: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _PROCESSOR_CACHE_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _SYSTEM_POWER_STATE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _DEVICE_POWER_STATE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct IMAGE_AUX_SYMBOL_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct IMPORT_OBJECT_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct IMPORT_OBJECT_NAME_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct ReplacesCorHdrNumericDefines: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _HEAP_INFORMATION_CLASS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _ACTIVATION_CONTEXT_INFO_CLASS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _CM_SERVICE_NODE_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _CM_SERVICE_LOAD_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _CM_ERROR_CONTROL_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _TAPE_DRIVE_PROBLEM_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _GET_FILEEX_INFO_LEVELS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct SYSNLS_FUNCTION: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct SYSGEOTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct SYSGEOCLASS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _RPC_HTTP_REDIRECTOR_STAGE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct RPC_ADDRESS_CHANGE_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _RPC_NOTIFICATION_TYPES: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _RPC_ASYNC_EVENT: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagExtendedErrorParamTypes: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _USER_MARSHAL_CB_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _IDL_CS_CONVERT: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagMEMCTX: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagCLSCTX: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagMSHLFLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagMSHCTX: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagDVASPECT: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSTGC: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSTGMOVE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSTATFLAG: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct VARENUM: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagTYSPEC: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _STORAGE_MEDIA_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _STORAGE_BUS_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _MEDIA_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _BIN_TYPES: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _ELEMENT_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _CHANGER_DEVICE_PROBLEM_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagREGCLS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagEXTCONN: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagBIND_FLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagMKSYS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagMKREDUCE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSTGTY: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSTREAM_SEEK: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagLOCKTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagADVF: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagTYMED: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagDATADIR: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagCALLTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSERVERCALL: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagPENDINGTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagPENDINGMSG: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagDCOM_CALL_STATE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagApplicationType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagShutdownType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _APTTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _THDTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagCOINIT: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSTDMSHLFLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagDISCARDCACHE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLEGETMONIKER: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLEWHICHMK: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagUSERCLASSTYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLEMISC: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLECLOSE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLERENDER: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLEUPDATE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLELINKBIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagBINDSPEED: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLECONTF: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagOLEVERBATTRIB: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSF_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagTYPEKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagCALLCONV: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagFUNCKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagINVOKEKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagVARKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagTYPEFLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagFUNCFLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagVARFLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagDESCKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagSYSKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagLIBFLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagCHANGEKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagDOMNodeType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagXMLEMEM_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IMonikerProp_0001: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IBindStatusCallback_0001: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IBindStatusCallback_0002: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IBindStatusCallback_0003: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IBindStatusCallback_0004: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IBindStatusCallback_0005: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IBindStatusCallback_0006: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagBINDSTATUS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_ICodeInstall_0001: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagBINDSTRING: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _tagPI_FLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _tagOIBDG_FLAGS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _tagPARSEACTION: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _tagPSUACTION: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _tagQUERYOPTION: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _tagINTERNETFEATURELIST: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IInternetSecurityManager_0001: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IInternetSecurityManager_0002: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IInternetSecurityManager_0003: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagURLZONE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagURLTEMPLATE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IInternetZoneManager_0001: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct __MIDL_IInternetZoneManager_0002: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _URLZONEREG: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct PIDMSI_STATUS_VALUE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagREGKIND: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _SC_ACTION_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _SC_STATUS_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _SC_ENUM_TYPE: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std._Uninitialized: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std.basic_string<char\,std::char_traits<char>\,std::_DebugHeapAllocator<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<char\,std::char_traits<char>\,std::_DebugHeapAllocator<char> >+_Has_debug_it: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<char\,std::char_traits<char>\,std::_DebugHeapAllocator<char> >+_Bxty: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >+_Has_debug_it: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >+_Bxty: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0EE@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY01$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.ErrorType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.BusCallbackType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.GrabMode: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.GrabTimeout: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.BandwidthAllocation: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.InterfaceType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.PropertyType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.FrameRate: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.VideoMode: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.Mode: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.PixelFormat: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.BusSpeed: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.PCIeBusSpeed: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.DriverType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.ColorProcessingAlgorithm: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.BayerTileFormat: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.ImageFileFormat: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.GigEPropertyType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.OSType: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.ByteOrder: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std.basic_string<wchar_t\,std::char_traits<wchar_t>\,std::allocator<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<wchar_t\,std::char_traits<wchar_t>\,std::allocator<wchar_t> >+_Has_debug_it: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_string<wchar_t\,std::char_traits<wchar_t>\,std::allocator<wchar_t> >+_Bxty: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.random_access_iterator_tag: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BF@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Secure_char_traits_tag: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.input_iterator_tag: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BH@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.numpunct<char>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.locale: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.locale+id: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.locale+_Locimp: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.locale+facet: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.numpunct<wchar_t>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.istreambuf_iterator<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(istreambuf_iterator<char\,std::char_traits<char> >*, istreambuf_iterator<char\,std::char_traits<char> >*): PrivateScope, Public, Static, SpecialName
+    <MarshalDestroy>(istreambuf_iterator<char\,std::char_traits<char> >*): PrivateScope, Public, Static, SpecialName
+Struct std.istreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(istreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >*, istreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >*): PrivateScope, Public, Static, SpecialName
+    <MarshalDestroy>(istreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >*): PrivateScope, Public, Static, SpecialName
+Struct std._Locinfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _Cvtvec: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY08$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0ED@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CJ@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CK@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0FP@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CL@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CE@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BO@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BH@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0EE@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY02$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0EF@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BF@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BG@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CI@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CC@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CB@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BP@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0P@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CO@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CH@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BJ@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY04$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY05$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0IH@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0FG@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BA@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BJ@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0EF@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_s__RTTIBaseClassArray$_extraBytes_16: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _s__RTTIBaseClassDescriptor2: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_23: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _s__RTTIClassHierarchyDescriptor: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_s__RTTIBaseClassArray$_extraBytes_8: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_24: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY01Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._String_val<wchar_t\,std::allocator<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.allocator<wchar_t>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(allocator<wchar_t>*, allocator<wchar_t>*): PrivateScope, Public, Static, SpecialName
+Struct std.allocator<wchar_t>+rebind<wchar_t>: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._String_base: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Container_base: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Lockit: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Iterator_base: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.char_traits<wchar_t>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.bad_alloc: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.exception: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY02Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _s__RTTICompleteObjectLocator: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_20: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _s__ThrowInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_s__CatchableTypeArray$_extraBytes_16: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _s__CatchableType: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._String_val<char\,std::allocator<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.allocator<char>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(allocator<char>*, allocator<char>*): PrivateScope, Public, Static, SpecialName
+Struct std.allocator<char>+rebind<char>: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.char_traits<char>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._DebugHeapTag_t: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Iterator_with_base<std::input_iterator_tag\,wchar_t\,__int64\,wchar_t \*\,wchar_t \&\,std::_Iterator_base>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Iterator_with_base<std::input_iterator_tag\,char\,__int64\,char \*\,char \&\,std::_Iterator_base>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct lconv: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY06Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.runtime_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_streambuf<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_streambuf<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class FlyCapture2Managed.ManagedPGRGuid: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(FlyCapture2Managed.ManagedPGRGuid): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(FlyCapture2Managed.ManagedPGRGuid): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    UInt32 value0 : Public
+    UInt32 value1 : Public
+    UInt32 value2 : Public
+    UInt32 value3 : Public
+  Methods:
+    op_Assign(ManagedPGRGuid IsImplicitlyDereferenced): PrivateScope, Public, HideBySig, SpecialName
+    op_Equality(ManagedPGRGuid IsImplicitlyDereferenced, ManagedPGRGuid IsImplicitlyDereferenced): PrivateScope, Public, Static, HideBySig, SpecialName
+    op_Inequality(ManagedPGRGuid IsImplicitlyDereferenced, ManagedPGRGuid IsImplicitlyDereferenced): PrivateScope, Public, Static, HideBySig, SpecialName
+    Equals(Object): PrivateScope, Public, Virtual, HideBySig
+    GetHashCode(): PrivateScope, Public, Virtual, HideBySig
+Class FlyCapture2Managed.FC2Version: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 build 'get set' : 
+    UInt32 type 'get set' : 
+    UInt32 minor 'get set' : 
+    UInt32 major 'get set' : 
+  Methods:
+    get_major(): PrivateScope, Public, HideBySig, SpecialName
+    set_major(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_minor(): PrivateScope, Public, HideBySig, SpecialName
+    set_minor(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_type(): PrivateScope, Public, HideBySig, SpecialName
+    set_type(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_build(): PrivateScope, Public, HideBySig, SpecialName
+    set_build(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.GigEProperty: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 value 'get set' : 
+    UInt32 max 'get set' : 
+    UInt32 min 'get set' : 
+    Boolean isWritable 'get set' : 
+    Boolean isReadable 'get set' : 
+    FlyCapture2Managed.GigEPropertyType propType 'get set' : 
+  Methods:
+    get_propType(): PrivateScope, Public, HideBySig, SpecialName
+    set_propType(GigEPropertyType): PrivateScope, Public, HideBySig, SpecialName
+    get_isReadable(): PrivateScope, Public, HideBySig, SpecialName
+    set_isReadable(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_isWritable(): PrivateScope, Public, HideBySig, SpecialName
+    set_isWritable(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_min(): PrivateScope, Public, HideBySig, SpecialName
+    set_min(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_max(): PrivateScope, Public, HideBySig, SpecialName
+    set_max(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_value(): PrivateScope, Public, HideBySig, SpecialName
+    set_value(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.GigEStreamChannel: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 sourcePort 'get set' : 
+    System.Net.IPAddress destinationIpAddress 'get set' : 
+    UInt32 interPacketDelay 'get set' : 
+    UInt32 packetSize 'get set' : 
+    Boolean doNotFragment 'get set' : 
+    UInt32 hostPost 'get set' : 
+    UInt32 networkInterfaceIndex 'get set' : 
+  Methods:
+    get_networkInterfaceIndex(): PrivateScope, Public, HideBySig, SpecialName
+    set_networkInterfaceIndex(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_hostPost(): PrivateScope, Public, HideBySig, SpecialName
+    set_hostPost(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_doNotFragment(): PrivateScope, Public, HideBySig, SpecialName
+    set_doNotFragment(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_packetSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_packetSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_interPacketDelay(): PrivateScope, Public, HideBySig, SpecialName
+    set_interPacketDelay(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_destinationIpAddress(): PrivateScope, Public, HideBySig, SpecialName
+    set_destinationIpAddress(IPAddress): PrivateScope, Public, HideBySig, SpecialName
+    get_sourcePort(): PrivateScope, Public, HideBySig, SpecialName
+    set_sourcePort(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.GigEConfig: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean enablePacketResend 'get set' : 
+  Methods:
+    get_enablePacketResend(): PrivateScope, Public, HideBySig, SpecialName
+    set_enablePacketResend(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.GigEImageSettingsInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 vendorPixelFormatBitField 'get set' : 
+    UInt32 pixelFormatBitField 'get set' : 
+    UInt32 imageVStepSize 'get set' : 
+    UInt32 imageHStepSize 'get set' : 
+    UInt32 offsetVStepSize 'get set' : 
+    UInt32 offsetHStepSize 'get set' : 
+    UInt32 maxHeight 'get set' : 
+    UInt32 maxWidth 'get set' : 
+  Methods:
+    get_maxWidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxWidth(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_maxHeight(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxHeight(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetHStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetHStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetVStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetVStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_imageHStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_imageHStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_imageVStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_imageVStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_pixelFormatBitField(): PrivateScope, Public, HideBySig, SpecialName
+    set_pixelFormatBitField(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorPixelFormatBitField(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorPixelFormatBitField(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.GigEImageSettings: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    FlyCapture2Managed.PixelFormat pixelFormat 'get set' : 
+    UInt32 height 'get set' : 
+    UInt32 width 'get set' : 
+    UInt32 offsetY 'get set' : 
+    UInt32 offsetX 'get set' : 
+  Methods:
+    get_offsetX(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetX(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetY(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetY(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_width(): PrivateScope, Public, HideBySig, SpecialName
+    set_width(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_height(): PrivateScope, Public, HideBySig, SpecialName
+    set_height(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_pixelFormat(): PrivateScope, Public, HideBySig, SpecialName
+    set_pixelFormat(PixelFormat): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.FC2Config: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 registerTimeout 'get set' : 
+    UInt32 registerTimeoutRetries 'get set' : 
+    FlyCapture2Managed.BandwidthAllocation bandwidthAllocation 'get set' : 
+    FlyCapture2Managed.BusSpeed asyncBusSpeed 'get set' : 
+    FlyCapture2Managed.BusSpeed isochBusSpeed 'get set' : 
+    FlyCapture2Managed.GrabMode grabMode 'get set' : 
+    Int32 grabTimeout 'get set' : 
+    UInt32 minNumImageNotifications 'get set' : 
+    UInt32 numImageNotifications 'get set' : 
+    UInt32 numBuffers 'get set' : 
+  Methods:
+    get_numBuffers(): PrivateScope, Public, HideBySig, SpecialName
+    set_numBuffers(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_numImageNotifications(): PrivateScope, Public, HideBySig, SpecialName
+    set_numImageNotifications(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_minNumImageNotifications(): PrivateScope, Public, HideBySig, SpecialName
+    set_minNumImageNotifications(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_grabTimeout(): PrivateScope, Public, HideBySig, SpecialName
+    set_grabTimeout(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_grabMode(): PrivateScope, Public, HideBySig, SpecialName
+    set_grabMode(GrabMode): PrivateScope, Public, HideBySig, SpecialName
+    get_isochBusSpeed(): PrivateScope, Public, HideBySig, SpecialName
+    set_isochBusSpeed(BusSpeed): PrivateScope, Public, HideBySig, SpecialName
+    get_asyncBusSpeed(): PrivateScope, Public, HideBySig, SpecialName
+    set_asyncBusSpeed(BusSpeed): PrivateScope, Public, HideBySig, SpecialName
+    get_bandwidthAllocation(): PrivateScope, Public, HideBySig, SpecialName
+    set_bandwidthAllocation(BandwidthAllocation): PrivateScope, Public, HideBySig, SpecialName
+    get_registerTimeoutRetries(): PrivateScope, Public, HideBySig, SpecialName
+    set_registerTimeoutRetries(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_registerTimeout(): PrivateScope, Public, HideBySig, SpecialName
+    set_registerTimeout(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.CameraPropertyInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(FlyCapture2Managed.PropertyType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String unitAbbr 'get set' : 
+    System.String units 'get set' : 
+    Single absMax 'get set' : 
+    Single absMin 'get set' : 
+    UInt32 max 'get set' : 
+    UInt32 min 'get set' : 
+    Boolean readOutSupported 'get set' : 
+    Boolean absValSupported 'get set' : 
+    Boolean onePushSupported 'get set' : 
+    Boolean onOffSupported 'get set' : 
+    Boolean manualSupported 'get set' : 
+    Boolean autoSupported 'get set' : 
+    Boolean present 'get set' : 
+    FlyCapture2Managed.PropertyType type 'get set' : 
+  Methods:
+    get_type(): PrivateScope, Public, HideBySig, SpecialName
+    set_type(PropertyType): PrivateScope, Public, HideBySig, SpecialName
+    get_present(): PrivateScope, Public, HideBySig, SpecialName
+    set_present(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_autoSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_autoSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_manualSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_manualSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onOffSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOffSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onePushSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_onePushSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_absValSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_absValSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_readOutSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_readOutSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_min(): PrivateScope, Public, HideBySig, SpecialName
+    set_min(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_max(): PrivateScope, Public, HideBySig, SpecialName
+    set_max(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_absMin(): PrivateScope, Public, HideBySig, SpecialName
+    set_absMin(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_absMax(): PrivateScope, Public, HideBySig, SpecialName
+    set_absMax(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_units(): PrivateScope, Public, HideBySig, SpecialName
+    set_units(String): PrivateScope, Public, HideBySig, SpecialName
+    get_unitAbbr(): PrivateScope, Public, HideBySig, SpecialName
+    set_unitAbbr(String): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.CameraProperty: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(FlyCapture2Managed.PropertyType): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single absValue 'get set' : 
+    UInt32 valueB 'get set' : 
+    UInt32 valueA 'get set' : 
+    Boolean autoManualMode 'get set' : 
+    Boolean onOff 'get set' : 
+    Boolean onePush 'get set' : 
+    Boolean absControl 'get set' : 
+    Boolean present 'get set' : 
+    FlyCapture2Managed.PropertyType type 'get set' : 
+  Methods:
+    get_type(): PrivateScope, Public, HideBySig, SpecialName
+    set_type(PropertyType): PrivateScope, Public, HideBySig, SpecialName
+    get_present(): PrivateScope, Public, HideBySig, SpecialName
+    set_present(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_absControl(): PrivateScope, Public, HideBySig, SpecialName
+    set_absControl(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onePush(): PrivateScope, Public, HideBySig, SpecialName
+    set_onePush(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onOff(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOff(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_autoManualMode(): PrivateScope, Public, HideBySig, SpecialName
+    set_autoManualMode(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_valueA(): PrivateScope, Public, HideBySig, SpecialName
+    set_valueA(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_valueB(): PrivateScope, Public, HideBySig, SpecialName
+    set_valueB(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_absValue(): PrivateScope, Public, HideBySig, SpecialName
+    set_absValue(Single): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.TriggerModeInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 modeMask 'get set' : 
+    Boolean softwareTriggerSupported 'get set' : 
+    UInt32 sourceMask 'get set' : 
+    Boolean valueReadable 'get set' : 
+    Boolean polaritySupported 'get set' : 
+    Boolean onOffSupported 'get set' : 
+    Boolean readOutSupported 'get set' : 
+    Boolean present 'get set' : 
+  Methods:
+    get_present(): PrivateScope, Public, HideBySig, SpecialName
+    set_present(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_readOutSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_readOutSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onOffSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOffSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_polaritySupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_polaritySupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_valueReadable(): PrivateScope, Public, HideBySig, SpecialName
+    set_valueReadable(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_sourceMask(): PrivateScope, Public, HideBySig, SpecialName
+    set_sourceMask(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_softwareTriggerSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_softwareTriggerSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_modeMask(): PrivateScope, Public, HideBySig, SpecialName
+    set_modeMask(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.TriggerMode: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 parameter 'get set' : 
+    UInt32 mode 'get set' : 
+    UInt32 source 'get set' : 
+    UInt32 polarity 'get set' : 
+    Boolean onOff 'get set' : 
+  Methods:
+    get_onOff(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOff(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_polarity(): PrivateScope, Public, HideBySig, SpecialName
+    set_polarity(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_source(): PrivateScope, Public, HideBySig, SpecialName
+    set_source(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_mode(): PrivateScope, Public, HideBySig, SpecialName
+    set_mode(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_parameter(): PrivateScope, Public, HideBySig, SpecialName
+    set_parameter(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.StrobeInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single maxValue 'get set' : 
+    Single minValue 'get set' : 
+    Boolean polaritySupported 'get set' : 
+    Boolean onOffSupported 'get set' : 
+    Boolean readOutSupported 'get set' : 
+    Boolean present 'get set' : 
+    UInt32 source 'get set' : 
+  Methods:
+    get_source(): PrivateScope, Public, HideBySig, SpecialName
+    set_source(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_present(): PrivateScope, Public, HideBySig, SpecialName
+    set_present(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_readOutSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_readOutSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onOffSupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOffSupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_polaritySupported(): PrivateScope, Public, HideBySig, SpecialName
+    set_polaritySupported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_minValue(): PrivateScope, Public, HideBySig, SpecialName
+    set_minValue(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_maxValue(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxValue(Single): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.StrobeControl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single duration 'get set' : 
+    Single delay 'get set' : 
+    UInt32 polarity 'get set' : 
+    Boolean onOff 'get set' : 
+    UInt32 source 'get set' : 
+  Methods:
+    get_source(): PrivateScope, Public, HideBySig, SpecialName
+    set_source(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_onOff(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOff(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_polarity(): PrivateScope, Public, HideBySig, SpecialName
+    set_polarity(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_delay(): PrivateScope, Public, HideBySig, SpecialName
+    set_delay(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_duration(): PrivateScope, Public, HideBySig, SpecialName
+    set_duration(Single): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.Format7ImageSettings: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    FlyCapture2Managed.PixelFormat pixelFormat 'get set' : 
+    UInt32 height 'get set' : 
+    UInt32 width 'get set' : 
+    UInt32 offsetY 'get set' : 
+    UInt32 offsetX 'get set' : 
+    FlyCapture2Managed.Mode mode 'get set' : 
+  Methods:
+    get_mode(): PrivateScope, Public, HideBySig, SpecialName
+    set_mode(Mode): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetX(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetX(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetY(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetY(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_width(): PrivateScope, Public, HideBySig, SpecialName
+    set_width(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_height(): PrivateScope, Public, HideBySig, SpecialName
+    set_height(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_pixelFormat(): PrivateScope, Public, HideBySig, SpecialName
+    set_pixelFormat(PixelFormat): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.Format7Info: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single percentage 'get set' : 
+    UInt32 maxPacketSize 'get set' : 
+    UInt32 minPacketSize 'get set' : 
+    UInt32 packetSize 'get set' : 
+    UInt32 vendorPixelFormatBitField 'get set' : 
+    UInt32 pixelFormatBitField 'get set' : 
+    UInt32 imageVStepSize 'get set' : 
+    UInt32 imageHStepSize 'get set' : 
+    UInt32 offsetVStepSize 'get set' : 
+    UInt32 offsetHStepSize 'get set' : 
+    UInt32 maxHeight 'get set' : 
+    UInt32 maxWidth 'get set' : 
+    FlyCapture2Managed.Mode mode 'get set' : 
+  Methods:
+    get_mode(): PrivateScope, Public, HideBySig, SpecialName
+    set_mode(Mode): PrivateScope, Public, HideBySig, SpecialName
+    get_maxWidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxWidth(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_maxHeight(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxHeight(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetHStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetHStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_offsetVStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_offsetVStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_imageHStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_imageHStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_imageVStepSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_imageVStepSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_pixelFormatBitField(): PrivateScope, Public, HideBySig, SpecialName
+    set_pixelFormatBitField(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorPixelFormatBitField(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorPixelFormatBitField(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_packetSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_packetSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_minPacketSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_minPacketSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_maxPacketSize(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxPacketSize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_percentage(): PrivateScope, Public, HideBySig, SpecialName
+    set_percentage(Single): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.Format7PacketInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 unitBytesPerPacket 'get set' : 
+    UInt32 maxBytesPerPacket 'get set' : 
+    UInt32 recommendedBytesPerPacket 'get set' : 
+  Methods:
+    get_recommendedBytesPerPacket(): PrivateScope, Public, HideBySig, SpecialName
+    set_recommendedBytesPerPacket(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_maxBytesPerPacket(): PrivateScope, Public, HideBySig, SpecialName
+    set_maxBytesPerPacket(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_unitBytesPerPacket(): PrivateScope, Public, HideBySig, SpecialName
+    set_unitBytesPerPacket(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.TimeStamp: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 cycleOffset 'get set' : 
+    UInt32 cycleCount 'get set' : 
+    UInt32 cycleSeconds 'get set' : 
+    UInt32 microSeconds 'get set' : 
+    Int64 seconds 'get set' : 
+  Methods:
+    get_seconds(): PrivateScope, Public, HideBySig, SpecialName
+    set_seconds(Int64): PrivateScope, Public, HideBySig, SpecialName
+    get_microSeconds(): PrivateScope, Public, HideBySig, SpecialName
+    set_microSeconds(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_cycleSeconds(): PrivateScope, Public, HideBySig, SpecialName
+    set_cycleSeconds(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_cycleCount(): PrivateScope, Public, HideBySig, SpecialName
+    set_cycleCount(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_cycleOffset(): PrivateScope, Public, HideBySig, SpecialName
+    set_cycleOffset(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.ConfigROM: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    System.String keyword 'get set' : 
+    UInt32 vendorUniqueInfo3 'get set' : 
+    UInt32 vendorUniqueInfo2 'get set' : 
+    UInt32 vendorUniqueInfo1 'get set' : 
+    UInt32 vendorUniqueInfo0 'get set' : 
+    UInt32 unitSubSWVer 'get set' : 
+    UInt32 unitSWVer 'get set' : 
+    UInt32 unitSpecId 'get set' : 
+    UInt32 chipIdLo 'get set' : 
+    UInt32 chipIdHi 'get set' : 
+    UInt32 nodeVendorId 'get set' : 
+  Methods:
+    get_nodeVendorId(): PrivateScope, Public, HideBySig, SpecialName
+    set_nodeVendorId(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_chipIdHi(): PrivateScope, Public, HideBySig, SpecialName
+    set_chipIdHi(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_chipIdLo(): PrivateScope, Public, HideBySig, SpecialName
+    set_chipIdLo(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_unitSpecId(): PrivateScope, Public, HideBySig, SpecialName
+    set_unitSpecId(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_unitSWVer(): PrivateScope, Public, HideBySig, SpecialName
+    set_unitSWVer(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_unitSubSWVer(): PrivateScope, Public, HideBySig, SpecialName
+    set_unitSubSWVer(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorUniqueInfo0(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorUniqueInfo0(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorUniqueInfo1(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorUniqueInfo1(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorUniqueInfo2(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorUniqueInfo2(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorUniqueInfo3(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorUniqueInfo3(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_keyword(): PrivateScope, Public, HideBySig, SpecialName
+    set_keyword(String): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.CameraInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    FlyCapture2Managed.ConfigROM configROM IsByValue : Public, InitOnly
+  Properties:
+    UInt32 applicationPort 'get set' : 
+    UInt32 applicationIPAddress 'get set' : 
+    UInt32 ccpStatus 'get set' : 
+    System.Net.IPAddress defaultGateway 'get set' : 
+    System.Net.IPAddress subnetMask 'get set' : 
+    System.Net.IPAddress ipAddress 'get set' : 
+    System.Net.NetworkInformation.PhysicalAddress macAddress 'get set' : 
+    System.String xmlURL2 'get set' : 
+    System.String xmlURL1 'get set' : 
+    System.String userDefinedName 'get set' : 
+    UInt32 gigEMinorVersion 'get set' : 
+    UInt32 gigEMajorVersion 'get set' : 
+    UInt32 iidcVersion 'get set' : 
+    UInt16 nodeNumber 'get set' : 
+    UInt16 busNumber 'get set' : 
+    FlyCapture2Managed.BayerTileFormat bayerTileFormat 'get set' : 
+    FlyCapture2Managed.PCIeBusSpeed pcieBusSpeed 'get set' : 
+    FlyCapture2Managed.BusSpeed maximumBusSpeed 'get set' : 
+    System.String firmwareBuildTime 'get set' : 
+    System.String firmwareVersion 'get set' : 
+    System.String driverName 'get set' : 
+    System.String sensorResolution 'get set' : 
+    System.String sensorInfo 'get set' : 
+    System.String vendorName 'get set' : 
+    System.String modelName 'get set' : 
+    Boolean isColorCamera 'get set' : 
+    FlyCapture2Managed.DriverType driverType 'get set' : 
+    FlyCapture2Managed.InterfaceType interfaceType 'get set' : 
+    UInt32 serialNumber 'get set' : 
+  Methods:
+    get_serialNumber(): PrivateScope, Public, HideBySig, SpecialName
+    set_serialNumber(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_interfaceType(): PrivateScope, Public, HideBySig, SpecialName
+    set_interfaceType(InterfaceType): PrivateScope, Public, HideBySig, SpecialName
+    get_driverType(): PrivateScope, Public, HideBySig, SpecialName
+    set_driverType(DriverType): PrivateScope, Public, HideBySig, SpecialName
+    get_isColorCamera(): PrivateScope, Public, HideBySig, SpecialName
+    set_isColorCamera(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_modelName(): PrivateScope, Public, HideBySig, SpecialName
+    set_modelName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_vendorName(): PrivateScope, Public, HideBySig, SpecialName
+    set_vendorName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_sensorInfo(): PrivateScope, Public, HideBySig, SpecialName
+    set_sensorInfo(String): PrivateScope, Public, HideBySig, SpecialName
+    get_sensorResolution(): PrivateScope, Public, HideBySig, SpecialName
+    set_sensorResolution(String): PrivateScope, Public, HideBySig, SpecialName
+    get_driverName(): PrivateScope, Public, HideBySig, SpecialName
+    set_driverName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_firmwareVersion(): PrivateScope, Public, HideBySig, SpecialName
+    set_firmwareVersion(String): PrivateScope, Public, HideBySig, SpecialName
+    get_firmwareBuildTime(): PrivateScope, Public, HideBySig, SpecialName
+    set_firmwareBuildTime(String): PrivateScope, Public, HideBySig, SpecialName
+    get_maximumBusSpeed(): PrivateScope, Public, HideBySig, SpecialName
+    set_maximumBusSpeed(BusSpeed): PrivateScope, Public, HideBySig, SpecialName
+    get_pcieBusSpeed(): PrivateScope, Public, HideBySig, SpecialName
+    set_pcieBusSpeed(PCIeBusSpeed): PrivateScope, Public, HideBySig, SpecialName
+    get_bayerTileFormat(): PrivateScope, Public, HideBySig, SpecialName
+    set_bayerTileFormat(BayerTileFormat): PrivateScope, Public, HideBySig, SpecialName
+    get_busNumber(): PrivateScope, Public, HideBySig, SpecialName
+    set_busNumber(UInt16): PrivateScope, Public, HideBySig, SpecialName
+    get_nodeNumber(): PrivateScope, Public, HideBySig, SpecialName
+    set_nodeNumber(UInt16): PrivateScope, Public, HideBySig, SpecialName
+    get_iidcVersion(): PrivateScope, Public, HideBySig, SpecialName
+    set_iidcVersion(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_gigEMajorVersion(): PrivateScope, Public, HideBySig, SpecialName
+    set_gigEMajorVersion(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_gigEMinorVersion(): PrivateScope, Public, HideBySig, SpecialName
+    set_gigEMinorVersion(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_userDefinedName(): PrivateScope, Public, HideBySig, SpecialName
+    set_userDefinedName(String): PrivateScope, Public, HideBySig, SpecialName
+    get_xmlURL1(): PrivateScope, Public, HideBySig, SpecialName
+    set_xmlURL1(String): PrivateScope, Public, HideBySig, SpecialName
+    get_xmlURL2(): PrivateScope, Public, HideBySig, SpecialName
+    set_xmlURL2(String): PrivateScope, Public, HideBySig, SpecialName
+    get_macAddress(): PrivateScope, Public, HideBySig, SpecialName
+    set_macAddress(PhysicalAddress): PrivateScope, Public, HideBySig, SpecialName
+    get_ipAddress(): PrivateScope, Public, HideBySig, SpecialName
+    set_ipAddress(IPAddress): PrivateScope, Public, HideBySig, SpecialName
+    get_subnetMask(): PrivateScope, Public, HideBySig, SpecialName
+    set_subnetMask(IPAddress): PrivateScope, Public, HideBySig, SpecialName
+    get_defaultGateway(): PrivateScope, Public, HideBySig, SpecialName
+    set_defaultGateway(IPAddress): PrivateScope, Public, HideBySig, SpecialName
+    get_ccpStatus(): PrivateScope, Public, HideBySig, SpecialName
+    set_ccpStatus(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_applicationIPAddress(): PrivateScope, Public, HideBySig, SpecialName
+    set_applicationIPAddress(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_applicationPort(): PrivateScope, Public, HideBySig, SpecialName
+    set_applicationPort(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.EmbeddedImageInfoProperty: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean onOff 'get set' : 
+    Boolean available 'get set' : 
+  Methods:
+    get_available(): PrivateScope, Public, HideBySig, SpecialName
+    set_available(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_onOff(): PrivateScope, Public, HideBySig, SpecialName
+    set_onOff(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.EmbeddedImageInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    FlyCapture2Managed.EmbeddedImageInfoProperty ROIPosition 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty GPIOPinState 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty strobePattern 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty frameCounter 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty whiteBalance 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty exposure 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty brightness 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty shutter 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty gain 'get set' : 
+    FlyCapture2Managed.EmbeddedImageInfoProperty timestamp 'get set' : 
+  Methods:
+    get_timestamp(): PrivateScope, Public, HideBySig, SpecialName
+    set_timestamp(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_gain(): PrivateScope, Public, HideBySig, SpecialName
+    set_gain(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_shutter(): PrivateScope, Public, HideBySig, SpecialName
+    set_shutter(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_brightness(): PrivateScope, Public, HideBySig, SpecialName
+    set_brightness(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_exposure(): PrivateScope, Public, HideBySig, SpecialName
+    set_exposure(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_whiteBalance(): PrivateScope, Public, HideBySig, SpecialName
+    set_whiteBalance(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_frameCounter(): PrivateScope, Public, HideBySig, SpecialName
+    set_frameCounter(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_strobePattern(): PrivateScope, Public, HideBySig, SpecialName
+    set_strobePattern(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_GPIOPinState(): PrivateScope, Public, HideBySig, SpecialName
+    set_GPIOPinState(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+    get_ROIPosition(): PrivateScope, Public, HideBySig, SpecialName
+    set_ROIPosition(EmbeddedImageInfoProperty): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.ImageMetadata: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 embeddedROIPosition 'get set' : 
+    UInt32 embeddedGPIOPinState 'get set' : 
+    UInt32 embeddedStrobePattern 'get set' : 
+    UInt32 embeddedFrameCounter 'get set' : 
+    UInt32 embeddedWhiteBalance 'get set' : 
+    UInt32 embeddedExposure 'get set' : 
+    UInt32 embeddedBrightness 'get set' : 
+    UInt32 embeddedShutter 'get set' : 
+    UInt32 embeddedGain 'get set' : 
+    UInt32 embeddedTimeStamp 'get set' : 
+  Methods:
+    get_embeddedTimeStamp(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedTimeStamp(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedGain(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedGain(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedShutter(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedShutter(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedBrightness(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedBrightness(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedExposure(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedExposure(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedWhiteBalance(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedWhiteBalance(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedFrameCounter(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedFrameCounter(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedStrobePattern(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedStrobePattern(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedGPIOPinState(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedGPIOPinState(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_embeddedROIPosition(): PrivateScope, Public, HideBySig, SpecialName
+    set_embeddedROIPosition(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.LutData: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 numEntries 'get set' : 
+    UInt32 outputBitDepth 'get set' : 
+    UInt32 inputBitDepth 'get set' : 
+    UInt32 numChannels 'get set' : 
+    UInt32 numBanks 'get set' : 
+    Boolean enabled 'get set' : 
+    Boolean supported 'get set' : 
+  Methods:
+    get_supported(): PrivateScope, Public, HideBySig, SpecialName
+    set_supported(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_enabled(): PrivateScope, Public, HideBySig, SpecialName
+    set_enabled(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_numBanks(): PrivateScope, Public, HideBySig, SpecialName
+    set_numBanks(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_numChannels(): PrivateScope, Public, HideBySig, SpecialName
+    set_numChannels(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_inputBitDepth(): PrivateScope, Public, HideBySig, SpecialName
+    set_inputBitDepth(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_outputBitDepth(): PrivateScope, Public, HideBySig, SpecialName
+    set_outputBitDepth(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_numEntries(): PrivateScope, Public, HideBySig, SpecialName
+    set_numEntries(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.PngOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 compressionLevel 'get set' : 
+    Boolean interlaced 'get set' : 
+  Methods:
+    get_interlaced(): PrivateScope, Public, HideBySig, SpecialName
+    set_interlaced(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_compressionLevel(): PrivateScope, Public, HideBySig, SpecialName
+    set_compressionLevel(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.PpmOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean binaryFile 'get set' : 
+  Methods:
+    get_binaryFile(): PrivateScope, Public, HideBySig, SpecialName
+    set_binaryFile(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.PgmOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean binaryFile 'get set' : 
+  Methods:
+    get_binaryFile(): PrivateScope, Public, HideBySig, SpecialName
+    set_binaryFile(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.TiffOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    CompressionMethod compression 'get set' : 
+  Methods:
+    get_compression(): PrivateScope, Public, HideBySig, SpecialName
+    set_compression(CompressionMethod): PrivateScope, Public, HideBySig, SpecialName
+Struct FlyCapture2Managed.TiffOption+CompressionMethod: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    CompressionMethod Lzw = 7 : Public, Static, Literal, HasDefault
+    CompressionMethod CcittFax4 = 6 : Public, Static, Literal, HasDefault
+    CompressionMethod CcittFax3 = 5 : Public, Static, Literal, HasDefault
+    CompressionMethod AdobeDeflate = 4 : Public, Static, Literal, HasDefault
+    CompressionMethod Deflate = 3 : Public, Static, Literal, HasDefault
+    CompressionMethod PackBits = 2 : Public, Static, Literal, HasDefault
+    CompressionMethod Jpeg = 8 : Public, Static, Literal, HasDefault
+    CompressionMethod None = 1 : Public, Static, Literal, HasDefault
+Class FlyCapture2Managed.JpegOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 quality 'get set' : 
+    Boolean progressive 'get set' : 
+  Methods:
+    get_progressive(): PrivateScope, Public, HideBySig, SpecialName
+    set_progressive(Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig, SpecialName
+    get_quality(): PrivateScope, Public, HideBySig, SpecialName
+    set_quality(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.Jpg2Option: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 quality 'get set' : 
+  Methods:
+    get_quality(): PrivateScope, Public, HideBySig, SpecialName
+    set_quality(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.AviOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Single frameRate 'get set' : 
+  Methods:
+    get_frameRate(): PrivateScope, Public, HideBySig, SpecialName
+    set_frameRate(Single): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.MJPGOption: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 quality 'get set' : 
+    Single frameRate 'get set' : 
+  Methods:
+    get_frameRate(): PrivateScope, Public, HideBySig, SpecialName
+    set_frameRate(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_quality(): PrivateScope, Public, HideBySig, SpecialName
+    set_quality(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.H264Option: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Int32 bitrate 'get set' : 
+    Int32 height 'get set' : 
+    Int32 width 'get set' : 
+    Single frameRate 'get set' : 
+  Methods:
+    get_frameRate(): PrivateScope, Public, HideBySig, SpecialName
+    set_frameRate(Single): PrivateScope, Public, HideBySig, SpecialName
+    get_width(): PrivateScope, Public, HideBySig, SpecialName
+    set_width(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_height(): PrivateScope, Public, HideBySig, SpecialName
+    set_height(Int32): PrivateScope, Public, HideBySig, SpecialName
+    get_bitrate(): PrivateScope, Public, HideBySig, SpecialName
+    set_bitrate(Int32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.SystemInfo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    UInt32 screenHeight 'get set' : 
+    UInt32 screenWidth 'get set' : 
+    System.String gpuDescription 'get set' : 
+    System.String libraryList 'get set' : 
+    System.String driverList 'get set' : 
+    UInt32 numCpuCores 'get set' : 
+    System.String cpuDescription 'get set' : 
+    UInt32 systemMemorySize 'get set' : 
+    FlyCapture2Managed.ByteOrder byteOrder 'get set' : 
+    System.String osDescription 'get set' : 
+    FlyCapture2Managed.OSType osType 'get set' : 
+  Methods:
+    get_osType(): PrivateScope, Public, HideBySig, SpecialName
+    set_osType(OSType): PrivateScope, Public, HideBySig, SpecialName
+    get_osDescription(): PrivateScope, Public, HideBySig, SpecialName
+    set_osDescription(String): PrivateScope, Public, HideBySig, SpecialName
+    get_byteOrder(): PrivateScope, Public, HideBySig, SpecialName
+    set_byteOrder(ByteOrder): PrivateScope, Public, HideBySig, SpecialName
+    get_systemMemorySize(): PrivateScope, Public, HideBySig, SpecialName
+    set_systemMemorySize(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_cpuDescription(): PrivateScope, Public, HideBySig, SpecialName
+    set_cpuDescription(String): PrivateScope, Public, HideBySig, SpecialName
+    get_numCpuCores(): PrivateScope, Public, HideBySig, SpecialName
+    set_numCpuCores(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_driverList(): PrivateScope, Public, HideBySig, SpecialName
+    set_driverList(String): PrivateScope, Public, HideBySig, SpecialName
+    get_libraryList(): PrivateScope, Public, HideBySig, SpecialName
+    set_libraryList(String): PrivateScope, Public, HideBySig, SpecialName
+    get_gpuDescription(): PrivateScope, Public, HideBySig, SpecialName
+    set_gpuDescription(String): PrivateScope, Public, HideBySig, SpecialName
+    get_screenWidth(): PrivateScope, Public, HideBySig, SpecialName
+    set_screenWidth(UInt32): PrivateScope, Public, HideBySig, SpecialName
+    get_screenHeight(): PrivateScope, Public, HideBySig, SpecialName
+    set_screenHeight(UInt32): PrivateScope, Public, HideBySig, SpecialName
+Class FlyCapture2Managed.FC2Exception: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Exception
+    Void .ctor(FlyCapture2.Error*): PrivateScope, Assembly, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String, System.Exception): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    System.String NativeErrorTrace 'get ' : 
+    FlyCapture2Managed.ErrorType CauseType 'get ' : 
+    FlyCapture2Managed.ErrorType Type 'get ' : 
+  Methods:
+    get_Type(): PrivateScope, Public, HideBySig, SpecialName
+    get_CauseType(): PrivateScope, Public, HideBySig, SpecialName
+    get_NativeErrorTrace(): PrivateScope, Public, HideBySig, SpecialName
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class FlyCapture2Managed.Translate: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+  Methods:
+    ToNative(PgmOption, PGMOption*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(PpmOption, PPMOption*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(PngOption, PNGOption*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(EmbeddedImageInfo, EmbeddedImageInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(EmbeddedImageInfoProperty, EmbeddedImageInfoProperty*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(LutData, LUTData*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(ImageMetadata, ImageMetadata*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(CameraInfo, CameraInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(ConfigROM, ConfigROM*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(TimeStamp, TimeStamp*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(Format7PacketInfo, Format7PacketInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(Format7Info, Format7Info*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(Format7ImageSettings, Format7ImageSettings*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(StrobeControl, StrobeControl*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(StrobeInfo, StrobeInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(TriggerMode, TriggerMode*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(TriggerModeInfo, TriggerModeInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(CameraProperty, Property*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(CameraPropertyInfo, PropertyInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(FC2Config, FC2Config*): PrivateScope, Assembly, Static, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+    translate(GigEPropertyType): PrivateScope, Assembly, Static, HideBySig
+    translate(GigEPropertyType): PrivateScope, Assembly, Static, HideBySig
+    translate(ByteOrder): PrivateScope, Assembly, Static, HideBySig
+    translate(ByteOrder): PrivateScope, Assembly, Static, HideBySig
+    translate(OSType): PrivateScope, Assembly, Static, HideBySig
+    translate(OSType): PrivateScope, Assembly, Static, HideBySig
+    translate(StatisticsChannel): PrivateScope, Assembly, Static, HideBySig
+    translate(StatisticsChannel): PrivateScope, Assembly, Static, HideBySig
+    translate(CompressionMethod): PrivateScope, Assembly, Static, HideBySig
+    translate(CompressionMethod): PrivateScope, Assembly, Static, HideBySig
+    translate(ImageFileFormat): PrivateScope, Assembly, Static, HideBySig
+    translate(ImageFileFormat): PrivateScope, Assembly, Static, HideBySig
+    translate(ColorProcessingAlgorithm): PrivateScope, Assembly, Static, HideBySig
+    translate(ColorProcessingAlgorithm): PrivateScope, Assembly, Static, HideBySig
+    translate(PCIeBusSpeed): PrivateScope, Assembly, Static, HideBySig
+    translate(PCIeBusSpeed): PrivateScope, Assembly, Static, HideBySig
+    translate(BusSpeed): PrivateScope, Assembly, Static, HideBySig
+    translate(BusSpeed): PrivateScope, Assembly, Static, HideBySig
+    translate(Mode): PrivateScope, Assembly, Static, HideBySig
+    translate(Mode): PrivateScope, Assembly, Static, HideBySig
+    translate(BayerTileFormat): PrivateScope, Assembly, Static, HideBySig
+    translate(BayerTileFormat): PrivateScope, Assembly, Static, HideBySig
+    translate(PixelFormat): PrivateScope, Assembly, Static, HideBySig
+    translate(PixelFormat): PrivateScope, Assembly, Static, HideBySig
+    translate(VideoMode): PrivateScope, Assembly, Static, HideBySig
+    translate(VideoMode): PrivateScope, Assembly, Static, HideBySig
+    translate(FrameRate): PrivateScope, Assembly, Static, HideBySig
+    translate(FrameRate): PrivateScope, Assembly, Static, HideBySig
+    translate(PropertyType): PrivateScope, Assembly, Static, HideBySig
+    translate(PropertyType): PrivateScope, Assembly, Static, HideBySig
+    translate(DriverType): PrivateScope, Assembly, Static, HideBySig
+    translate(DriverType): PrivateScope, Assembly, Static, HideBySig
+    translate(InterfaceType): PrivateScope, Assembly, Static, HideBySig
+    translate(InterfaceType): PrivateScope, Assembly, Static, HideBySig
+    translate(BandwidthAllocation): PrivateScope, Assembly, Static, HideBySig
+    translate(BandwidthAllocation): PrivateScope, Assembly, Static, HideBySig
+    translate(GrabMode): PrivateScope, Assembly, Static, HideBySig
+    translate(GrabMode): PrivateScope, Assembly, Static, HideBySig
+    translate(ErrorType): PrivateScope, Assembly, Static, HideBySig
+    translate(ErrorType): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(GigEStreamChannel*, GigEStreamChannel): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(GigEConfig*, GigEConfig): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(GigEImageSettings*, GigEImageSettings): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(GigEImageSettingsInfo*, GigEImageSettingsInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(GigEProperty*, GigEProperty): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(MACAddress*, PhysicalAddress&): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(IPAddress*, IPAddress&): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(FC2Version*, FC2Version): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(SystemInfo*, SystemInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(JPG2Option*, Jpg2Option): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(JPEGOption*, JpegOption): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(TIFFOption*, TiffOption): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(PGMOption*, PgmOption): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(PPMOption*, PpmOption): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(PNGOption*, PngOption): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(EmbeddedImageInfo*, EmbeddedImageInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(EmbeddedImageInfoProperty*, EmbeddedImageInfoProperty): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(LUTData*, LutData): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(ImageMetadata*, ImageMetadata): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(CameraInfo*, CameraInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(ConfigROM*, ConfigROM): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(TimeStamp*, TimeStamp): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(Format7PacketInfo*, Format7PacketInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(Format7Info*, Format7Info): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(Format7ImageSettings*, Format7ImageSettings): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(StrobeControl*, StrobeControl): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(StrobeInfo*, StrobeInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(TriggerMode*, TriggerMode): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(TriggerModeInfo*, TriggerModeInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(Property*, CameraProperty): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(PropertyInfo*, CameraPropertyInfo): PrivateScope, Assembly, Static, HideBySig
+    ToMgd(FC2Config*, FC2Config): PrivateScope, Assembly, Static, HideBySig
+    ToNative(GigEStreamChannel, GigEStreamChannel*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(GigEConfig, GigEConfig*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(GigEImageSettings, GigEImageSettings*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(GigEImageSettingsInfo, GigEImageSettingsInfo*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(GigEProperty, GigEProperty*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(PhysicalAddress, MACAddress*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(IPAddress, IPAddress*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(H264Option, H264Option*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(MJPGOption, MJPGOption*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(AviOption, AVIOption*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(Jpg2Option, JPG2Option*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(JpegOption, JPEGOption*): PrivateScope, Assembly, Static, HideBySig
+    ToNative(TiffOption, TIFFOption*): PrivateScope, Assembly, Static, HideBySig
+Struct FlyCapture2Managed.ErrorType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.ErrorType Timeout = 18 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IncompatibleDriver = 42 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType ImageConsistencyError = 41 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType BufferTooSmall = 40 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType ImageLibraryFailure = 39 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType ImageConversionFailed = 38 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochBandwidthExceeded = 37 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochSyncFailed = 36 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochStopFailed = 35 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochRetrieveBufferFailed = 34 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochStartFailed = 33 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochNotStarted = 32 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochAlreadyStarted = 31 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IsochFailed = 30 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType WriteRegisterFailed = 29 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType ReadRegisterFailed = 28 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType RegisterFailed = 27 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType PropertyNotPresent = 26 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType PropertyFailed = 25 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType TriggerFailed = 24 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType StrobeFailed = 23 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType IidcFailed = 22 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType LutFailed = 21 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InvalidGeneration = 20 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType BusMasterFailed = 19 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType NotSupported = 17 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType NotInFormat7 = 16 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InvalidMode = 15 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InvalidPacketSize = 14 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType FailedGuid = 13 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType NotFound = 12 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType LowLevelFailure = 11 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType MemoryAllocationFailed = 10 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InvalidBuManager = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InvalidSettings = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InvalidParameter = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType NotInitialized = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType InitFailed = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType NotConnected = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType FailedBusMasterConnection = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType NotImplemented = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType Failed = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType Ok = 0 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ErrorType Undefined = -1 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.ManagedCallbackType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.ManagedCallbackType Removal = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ManagedCallbackType Arrival = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ManagedCallbackType BusReset = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.GrabMode: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.GrabMode Unspecified = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GrabMode BufferFrames = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GrabMode DropFrames = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.GrabTimeout: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.GrabTimeout Unspecified = -2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GrabTimeout Infinite = -1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GrabTimeout None = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.BandwidthAllocation: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.BandwidthAllocation Unspecified = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BandwidthAllocation Unsupported = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BandwidthAllocation On = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BandwidthAllocation Off = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.InterfaceType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.InterfaceType Unknown = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.InterfaceType GigE = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.InterfaceType Usb3 = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.InterfaceType Usb2 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.InterfaceType Ieee1394 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.PropertyType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.PropertyType FrameRate = 16 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType TriggerDelay = 15 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType TriggerMode = 14 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Unspecified = 18 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Temperature = 17 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Gain = 13 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Shutter = 12 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Tilt = 11 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Pan = 10 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Zoom = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Focus = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Iris = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Gamma = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Saturation = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Hue = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType WhiteBalance = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Sharpness = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType AutoExposure = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PropertyType Brightness = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.FrameRate: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.FrameRate NumberOfFrameRates = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRateFormat7 = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate240 = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate120 = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate60 = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate30 = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate15 = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate7_5 = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate3_75 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.FrameRate FrameRate1_875 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.VideoMode: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.VideoMode NumberOfVideoModes = 24 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoModeFormat7 = 23 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1600x1200Y16 = 22 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1600x1200Y8 = 21 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1600x1200Rgb = 20 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1600x1200Yuv422 = 19 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1280x960Y16 = 18 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1280x960Y8 = 17 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1280x960Rgb = 16 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1280x960Yuv422 = 15 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1024x768Y16 = 14 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1024x768Y8 = 13 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1024x768Rgb = 12 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode1024x768Yuv422 = 11 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode800x600Y16 = 10 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode800x600Y8 = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode800x600Rgb = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode800x600Yuv422 = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode640x480Y16 = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode640x480Y8 = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode640x480Rgb = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode640x480Yuv422 = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode640x480Yuv411 = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode320x240Yuv422 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.VideoMode VideoMode160x120Yuv444 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.Mode: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.Mode NumberOfModes = 32 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode31 = 31 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode30 = 30 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode29 = 29 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode28 = 28 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode27 = 27 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode26 = 26 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode25 = 25 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode24 = 24 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode23 = 23 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode22 = 22 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode21 = 21 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode20 = 20 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode19 = 19 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode18 = 18 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode17 = 17 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode16 = 16 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode15 = 15 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode14 = 14 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode13 = 13 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode12 = 12 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode11 = 11 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode10 = 10 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode9 = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode8 = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode7 = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode6 = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode5 = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode4 = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode3 = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode2 = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode1 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.Mode Mode0 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.PixelFormat: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.PixelFormat NumberOfPixelFormats = 20 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormat422Yuv8Jpeg = 1073741825 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatBgru16 = 33554434 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatBgr16 = 33554433 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRgbu = 1073741826 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRgb = 134217728 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatBgru = 1073741832 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatBgr = -2147483640 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRaw12 = 524288 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatMono12 = 1048576 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRaw16 = 2097152 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRaw8 = 4194304 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatSignedRgb16 = 8388608 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatSignedMono16 = 16777216 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRgb16 = 33554432 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatMono16 = 67108864 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatRgb8 = 134217728 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormat444Yuv8 = 268435456 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormat422Yuv8 = 536870912 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormat411Yuv8 = 1073741824 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PixelFormat PixelFormatMono8 = -2147483648 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.BusSpeed: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.BusSpeed Unknown = -1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed Any = 13 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed Fastest = 12 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed GigE_10000Base_T = 11 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed GigE_1000Base_T = 10 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed GigE_100Base_T = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed GigE_10Base_T = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S5000 = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S3200 = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S1600 = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S800 = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S480 = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S400 = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S200 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BusSpeed S100 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.PCIeBusSpeed: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.PCIeBusSpeed Unknown = -1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PCIeBusSpeed Speed_5_0 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.PCIeBusSpeed Speed_2_5 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.DriverType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.DriverType Unknown = -1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType GigE_Pro = 10 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType GigE_Filter = 9 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType GigE_None = 8 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Usb3_Pro = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Usb_Cam = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Usb_None = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Ieee1394_Raw1394 = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Ieee1394_Video1394 = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Ieee1394_Juju = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Ieee1394_Pro = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.DriverType Ieee1394_Cam = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.ColorProcessingAlgorithm: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.ColorProcessingAlgorithm Default = 0 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm IPP = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm Directional = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm Rigorous = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm HQLinear = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm EdgeSensing = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm NearestNeighbor = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ColorProcessingAlgorithm NoColorProcessing = 1 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.BayerTileFormat: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.BayerTileFormat BGGR = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BayerTileFormat GBRG = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BayerTileFormat GRBG = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BayerTileFormat RGGB = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.BayerTileFormat None = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.ImageFileFormat: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.ImageFileFormat Raw = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Png = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Tiff = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Jpeg2000 = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Jpeg = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Bmp = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Ppm = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat Pgm = 0 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ImageFileFormat FromFileExtension = -1 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.StatisticsChannel: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.StatisticsChannel NumberOfStatisticsChannels = 7 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Lightness = 6 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Saturation = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Hue = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Blue = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Green = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Red = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.StatisticsChannel Grey = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.OSType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.OSType UnknownOS = 5 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.OSType Mac = 4 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.OSType LinuxX64 = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.OSType LinuxX86 = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.OSType WindowsX64 = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.OSType WindowsX86 = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.ByteOrder: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.ByteOrder LittleEndian = 0 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.ByteOrder BigEndian = 1 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.GigEPropertyType: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    FlyCapture2Managed.GigEPropertyType PacketDelay = 3 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GigEPropertyType PacketSize = 2 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GigEPropertyType HeartbeatTimeout = 1 : Public, Static, Literal, HasDefault
+    FlyCapture2Managed.GigEPropertyType Heartbeat = 0 : Public, Static, Literal, HasDefault
+Struct FlyCapture2.Error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(Error*, Error*): PrivateScope, Public, Static, SpecialName
+    <MarshalDestroy>(Error*): PrivateScope, Public, Static, SpecialName
+Struct FlyCapture2.ImageStatistics: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.ImageStatistics+StatisticsChannel: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.TIFFOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.TIFFOption+CompressionMethod: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.GigEStreamChannel: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.GigEConfig: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.GigEImageSettings: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.GigEImageSettingsInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.GigEProperty: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.MACAddress: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.IPAddress: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.FC2Version: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.SystemInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.JPG2Option: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.JPEGOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.PGMOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.PPMOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.PNGOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.EmbeddedImageInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.EmbeddedImageInfoProperty: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.LUTData: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.ImageMetadata: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.CameraInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.ConfigROM: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.TimeStamp: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.Format7PacketInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.Format7Info: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.Format7ImageSettings: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.StrobeControl: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.StrobeInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.TriggerMode: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.TriggerModeInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.Property: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.PropertyInfo: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.FC2Config: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.H264Option: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.MJPGOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.AVIOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BD@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BE@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0P@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class FlyCapture2Managed.ManagedImageStatistics: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    EnableAll(): PrivateScope, Public, HideBySig
+    DisableAll(): PrivateScope, Public, HideBySig
+    EnableGreyOnly(): PrivateScope, Public, HideBySig
+    EnableRGBOnly(): PrivateScope, Public, HideBySig
+    EnableHSLOnly(): PrivateScope, Public, HideBySig
+    GetChannelStatus(StatisticsChannel): PrivateScope, Public, HideBySig
+    SetChannelStatus(StatisticsChannel, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    GetRange(StatisticsChannel, UInt32&, UInt32&): PrivateScope, Public, HideBySig
+    GetPixelValueRange(StatisticsChannel, UInt32&, UInt32&): PrivateScope, Public, HideBySig
+    GetNumPixelValues(StatisticsChannel, UInt32&): PrivateScope, Public, HideBySig
+    GetMean(StatisticsChannel, Single&): PrivateScope, Public, HideBySig
+    GetHistogram(StatisticsChannel, Int32[]): PrivateScope, Public, HideBySig
+    GetStatistics(StatisticsChannel, UInt32&, UInt32&, UInt32&, UInt32&, UInt32&, Single&, Int32[]): PrivateScope, Public, HideBySig
+    GetNativeImageStatistics(): PrivateScope, Assembly, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class FlyCapture2Managed.ManagedImage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(FlyCapture2.Image*): PrivateScope, Assembly, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(FlyCapture2Managed.ManagedImage): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(UInt32, UInt32, FlyCapture2Managed.PixelFormat, FlyCapture2Managed.BayerTileFormat): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(UInt32, UInt32, FlyCapture2Managed.PixelFormat): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(Byte*, UInt32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(UInt32, UInt32, UInt32, Byte*, UInt32, UInt32, FlyCapture2Managed.PixelFormat, FlyCapture2Managed.BayerTileFormat): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(UInt32, UInt32, UInt32, Byte*, UInt32, FlyCapture2Managed.PixelFormat, FlyCapture2Managed.BayerTileFormat): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(UInt32, UInt32, UInt32, Byte*, UInt32, UInt32, FlyCapture2Managed.PixelFormat): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(UInt32, UInt32, UInt32, Byte*, UInt32, FlyCapture2Managed.PixelFormat): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Properties:
+    System.Drawing.Bitmap bitmap 'get ' : 
+    FlyCapture2Managed.TimeStamp timeStamp 'get ' : 
+    FlyCapture2Managed.ImageMetadata imageMetadata 'get ' : 
+    UInt32 receivedDataSize 'get ' : 
+    Byte* data 'get ' : 
+    UInt32 bitsPerPixel 'get ' : 
+    UInt32 stride 'get ' : 
+    UInt32 rows 'get ' : 
+    UInt32 cols 'get ' : 
+    FlyCapture2Managed.BayerTileFormat bayerTileFormat 'get ' : 
+    FlyCapture2Managed.PixelFormat pixelFormat 'get ' : 
+    FlyCapture2Managed.ColorProcessingAlgorithm colorProcessingAlgorithm 'get set' : 
+    FlyCapture2Managed.PixelFormat defaultOutputPixelFormat 'get set' : 
+    FlyCapture2Managed.ColorProcessingAlgorithm defaultColorProcessingAlgorithm 'get set' : 
+  Methods:
+    DetermineBitsPerPixel(PixelFormat): PrivateScope, Public, Static, HideBySig
+    get_defaultColorProcessingAlgorithm(): PrivateScope, Public, Static, HideBySig, SpecialName
+    set_defaultColorProcessingAlgorithm(ColorProcessingAlgorithm): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_defaultOutputPixelFormat(): PrivateScope, Public, Static, HideBySig, SpecialName
+    set_defaultOutputPixelFormat(PixelFormat): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_colorProcessingAlgorithm(): PrivateScope, Public, HideBySig, SpecialName
+    set_colorProcessingAlgorithm(ColorProcessingAlgorithm): PrivateScope, Public, HideBySig, SpecialName
+    get_pixelFormat(): PrivateScope, Public, HideBySig, SpecialName
+    get_bayerTileFormat(): PrivateScope, Public, HideBySig, SpecialName
+    get_cols(): PrivateScope, Public, HideBySig, SpecialName
+    get_rows(): PrivateScope, Public, HideBySig, SpecialName
+    get_stride(): PrivateScope, Public, HideBySig, SpecialName
+    get_bitsPerPixel(): PrivateScope, Public, HideBySig, SpecialName
+    get_data(): PrivateScope, Public, HideBySig, SpecialName
+    get_receivedDataSize(): PrivateScope, Public, HideBySig, SpecialName
+    get_imageMetadata(): PrivateScope, Public, HideBySig, SpecialName
+    get_timeStamp(): PrivateScope, Public, HideBySig, SpecialName
+    get_bitmap(): PrivateScope, Public, HideBySig, SpecialName
+    SetDimensions(UInt32, UInt32, UInt32, PixelFormat, BayerTileFormat): PrivateScope, Public, HideBySig
+    SetData(Byte*, UInt32): PrivateScope, Public, HideBySig
+    CalculateStatistics(ManagedImageStatistics): PrivateScope, Public, HideBySig
+    Save(String, Jpg2Option): PrivateScope, Public, HideBySig
+    Save(String, JpegOption): PrivateScope, Public, HideBySig
+    Save(String, TiffOption): PrivateScope, Public, HideBySig
+    Save(String, PgmOption): PrivateScope, Public, HideBySig
+    Save(String, PpmOption): PrivateScope, Public, HideBySig
+    Save(String, PngOption): PrivateScope, Public, HideBySig
+    Save(String, ImageFileFormat): PrivateScope, Public, HideBySig
+    Save(String): PrivateScope, Public, HideBySig
+    Convert(PixelFormat, ManagedImage): PrivateScope, Public, HideBySig
+    Convert(ManagedImage): PrivateScope, Public, HideBySig
+    ReleaseBuffer(): PrivateScope, Public, HideBySig
+    GetRawNativeImagePointer(): PrivateScope, Public, HideBySig
+    IsNativeImageValid(): PrivateScope, Assembly, HideBySig
+    GetNativeImage(): PrivateScope, Assembly, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class FlyCapture2Managed.ManagedAVIRecorder: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    AVIOpen(String, H264Option): PrivateScope, Public, HideBySig
+    AVIOpen(String, MJPGOption): PrivateScope, Public, HideBySig
+    AVIOpen(String, AviOption): PrivateScope, Public, HideBySig
+    AVIAppend(ManagedImage): PrivateScope, Public, HideBySig
+    AVIClose(): PrivateScope, Public, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct FlyCapture2.Image: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.AVIRecorder: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_30: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class FlyCapture2Managed.ManagedTopologyNode: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(FlyCapture2.TopologyNode*): PrivateScope, Assembly, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(FlyCapture2Managed.ManagedTopologyNode): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(FlyCapture2Managed.ManagedTopologyNode): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    GetGuid(): PrivateScope, Public, HideBySig
+    GetDeviceId(): PrivateScope, Public, HideBySig
+    GetNodeType(): PrivateScope, Public, HideBySig
+    GetInterfaceType(): PrivateScope, Public, HideBySig
+    GetNumChildren(): PrivateScope, Public, HideBySig
+    GetChild(UInt32): PrivateScope, Public, HideBySig
+    GetNumPorts(): PrivateScope, Public, HideBySig
+    GetPortType(UInt32): PrivateScope, Public, HideBySig
+    TranslatePortType(PortType): PrivateScope, Assembly, Static, HideBySig
+    TranslatePortType(PortType): PrivateScope, Assembly, Static, HideBySig
+    TranslateNodeType(NodeType): PrivateScope, Assembly, Static, HideBySig
+    TranslateNodeType(NodeType): PrivateScope, Assembly, Static, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct FlyCapture2Managed.ManagedTopologyNode+PortType: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    PortType ConnectedToChild = 3 : Public, Static, Literal, HasDefault
+    PortType ConnectedToParent = 2 : Public, Static, Literal, HasDefault
+    PortType NotConnected = 1 : Public, Static, Literal, HasDefault
+Struct FlyCapture2Managed.ManagedTopologyNode+NodeType: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+    NodeType Node = 3 : Public, Static, Literal, HasDefault
+    NodeType Bus = 1 : Public, Static, Literal, HasDefault
+    NodeType Computer = 0 : Public, Static, Literal, HasDefault
+    NodeType Camera = 2 : Public, Static, Literal, HasDefault
+Class FlyCapture2Managed.EnumCallback: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(IntPtr, UInt32): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(IntPtr, UInt32, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FlyCapture2Managed.ManagedBusManager: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Interfaces:
+    System.IDisposable
+  Methods:
+    FireBusReset(ManagedPGRGuid): PrivateScope, Public, HideBySig
+    GetNumOfCameras(): PrivateScope, Public, HideBySig
+    GetCameraFromIPAddress(IPAddress): PrivateScope, Public, HideBySig
+    GetCameraFromIndex(UInt32): PrivateScope, Public, HideBySig
+    GetCameraFromSerialNumber(UInt32): PrivateScope, Public, HideBySig
+    GetCameraSerialNumberFromIndex(UInt32): PrivateScope, Public, HideBySig
+    GetInterfaceTypeFromGuid(ManagedPGRGuid): PrivateScope, Public, HideBySig
+    GetNumOfDevices(): PrivateScope, Public, HideBySig
+    GetDeviceFromIndex(UInt32): PrivateScope, Public, HideBySig
+    ReadPhyRegister(ManagedPGRGuid, UInt32, UInt32, UInt32): PrivateScope, Public, HideBySig
+    WritePhyRegister(ManagedPGRGuid, UInt32, UInt32, UInt32, UInt32): PrivateScope, Public, HideBySig
+    GetUsbLinkInfo(ManagedPGRGuid): PrivateScope, Public, HideBySig
+    GetUsbPortStatus(ManagedPGRGuid): PrivateScope, Public, HideBySig
+    GetTopology(): PrivateScope, Public, HideBySig
+    RescanBus(): PrivateScope, Public, HideBySig
+    ForceIPAddressToCamera(PhysicalAddress, IPAddress, IPAddress, IPAddress): PrivateScope, Public, Static, HideBySig
+    ForceAllIPAddressesAutomatically(UInt32): PrivateScope, Public, Static, HideBySig
+    ForceAllIPAddressesAutomatically(): PrivateScope, Public, Static, HideBySig
+    DiscoverGigECameras(): PrivateScope, Public, Static, HideBySig
+    RegisterCallback(EnumCallback, ManagedCallbackType, IntPtr): PrivateScope, Public, HideBySig
+    UnregisterCallback(IntPtr): PrivateScope, Public, HideBySig
+    IsCameraControlable(ManagedPGRGuid): PrivateScope, Public, HideBySig
+    ConvertToNativeGuid(ManagedPGRGuid, PGRGuid*): PrivateScope, Assembly, Static, HideBySig
+    ConvertToManagedGuid(PGRGuid*, ManagedPGRGuid): PrivateScope, Assembly, Static, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct FlyCapture2.TopologyNode: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.TopologyNode+PortType: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.TopologyNode+NodeType: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct FlyCapture2.PGRGuid: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.BusManager: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BI@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BC@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_29: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0IA@UCameraInfo@FlyCapture2@@: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BD@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class FlyCapture2Managed.ImageEventCallback: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(ManagedImage): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(ManagedImage, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FlyCapture2Managed.ImageCallbackDelegate: AutoLayout, AnsiClass, Class, Public, Sealed, BeforeFieldInit
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, SpecialName, RTSpecialName
+  Methods:
+    Invoke(Image*, Void*): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    BeginInvoke(Image*, Void*, AsyncCallback, Object): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Final, Virtual, VtableLayoutMask
+Class FlyCapture2Managed.ManagedCameraBase: AutoLayout, AnsiClass, Class, Public, Abstract, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+  Methods:
+    SetCamera(IntPtr): PrivateScope, Public, HideBySig
+    Connect(ManagedPGRGuid): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    Disconnect(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    IsConnected(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetCallback(ImageEventCallback): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    StartCapture(ImageEventCallback): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    StartCapture(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    StopCapture(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    RetrieveBuffer(ManagedImage): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    WaitForBufferEvent(ManagedImage, UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetConfiguration(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetConfiguration(FC2Config): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetCameraInfo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetPropertyInfo(PropertyType): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetProperty(PropertyType): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetProperty(CameraProperty, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetProperty(CameraProperty): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetGPIOPinDirection(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetGPIOPinDirection(UInt32, UInt32, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetGPIOPinDirection(UInt32, UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetTriggerModeInfo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetTriggerMode(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetTriggerMode(TriggerMode): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    FireSoftwareTrigger(Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetStrobeInfo(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetStrobe(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetStrobe(StrobeControl): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetLUTInfo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetLUTBankInfo(UInt32, Boolean&, Boolean&): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetActiveLUTBank(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetActiveLUTBank(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EnableLUT(Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetLUTChannel(UInt32, UInt32, UInt32, UInt32[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetLUTChannel(UInt32, UInt32, UInt32, UInt32[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetMemoryChannel(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SaveToMemoryChannel(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    RestoreFromMemoryChannel(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetMemoryChannelInfo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetEmbeddedImageInfo(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    SetEmbeddedImageInfo(EmbeddedImageInfo): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    WriteRegister(UInt32, UInt32, Boolean(HasFieldMarshal)): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    WriteRegister(UInt32, UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ReadRegister(UInt32): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    WriteRegisterBlock(UInt16, UInt32, UInt32[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    ReadRegisterBlock(UInt16, UInt32, UInt32[]): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetRegisterString(UInt32): PrivateScope, Public, Static, HideBySig
+    GetCycleTime(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    GetNativeCamera(): PrivateScope, Assembly, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Class FlyCapture2Managed.ManagedCamera: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :FlyCapture2Managed.ManagedCameraBase
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Connect(ManagedPGRGuid): PrivateScope, Public, Virtual, HideBySig
+    GetVideoModeAndFrameRateInfo(VideoMode, FrameRate): PrivateScope, Public, HideBySig
+    GetVideoModeAndFrameRate(VideoMode&, FrameRate&): PrivateScope, Public, HideBySig
+    SetVideoModeAndFrameRate(VideoMode, FrameRate): PrivateScope, Public, HideBySig
+    GetFormat7Info(Mode, Boolean&): PrivateScope, Public, HideBySig
+    ValidateFormat7Settings(Format7ImageSettings, Boolean&): PrivateScope, Public, HideBySig
+    GetFormat7Configuration(Format7ImageSettings, UInt32&, Single&): PrivateScope, Public, HideBySig
+    SetFormat7Configuration(Format7ImageSettings, Single): PrivateScope, Public, HideBySig
+    SetFormat7Configuration(Format7ImageSettings, UInt32): PrivateScope, Public, HideBySig
+    StartSyncCapture(UInt32, ManagedCamera[], ImageEventCallback[], ValueType[]): PrivateScope, Public, Static, HideBySig
+    StartSyncCapture(UInt32, ManagedCamera[]): PrivateScope, Public, Static, HideBySig
+Struct FlyCapture2.CameraBase: AutoLayout, AnsiClass, Class, SequentialLayout, Abstract, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.Camera: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_25: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.CameraStats: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0DJ@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0M@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY05$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BAE@_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct HINSTANCE__: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class FlyCapture2Managed.ManagedGigECamera: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :FlyCapture2Managed.ManagedCameraBase
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Connect(ManagedPGRGuid): PrivateScope, Public, Virtual, HideBySig
+    WriteGVCPRegister(UInt32, UInt32, Boolean(HasFieldMarshal)): PrivateScope, Public, HideBySig
+    WriteGVCPRegister(UInt32, UInt32): PrivateScope, Public, HideBySig
+    ReadGVCPRegister(UInt32): PrivateScope, Public, HideBySig
+    WriteGVCPRegisterBlock(UInt32, UInt32[]): PrivateScope, Public, HideBySig
+    ReadGVCPRegisterBlock(UInt32, UInt32[]): PrivateScope, Public, HideBySig
+    WriteGVCPMemory(UInt32, Byte[]): PrivateScope, Public, HideBySig
+    ReadGVCPMemory(UInt32, Byte[]): PrivateScope, Public, HideBySig
+    GetGigEProperty(GigEPropertyType): PrivateScope, Public, HideBySig
+    SetGigEProperty(GigEProperty): PrivateScope, Public, HideBySig
+    DiscoverGigEPacketSize(): PrivateScope, Public, HideBySig
+    QueryGigEImagingMode(Mode): PrivateScope, Public, HideBySig
+    GetGigEImagingMode(): PrivateScope, Public, HideBySig
+    SetGigEImagingMode(Mode): PrivateScope, Public, HideBySig
+    GetGigEImageSettingsInfo(): PrivateScope, Public, HideBySig
+    GetGigEImageSettings(): PrivateScope, Public, HideBySig
+    SetGigEImageSettings(GigEImageSettings): PrivateScope, Public, HideBySig
+    GetGigEConfig(): PrivateScope, Public, HideBySig
+    SetGigEConfig(GigEConfig): PrivateScope, Public, HideBySig
+    GetGigEImageBinningSettings(UInt32&, UInt32&): PrivateScope, Public, HideBySig
+    SetGigEImageBinningSettings(UInt32, UInt32): PrivateScope, Public, HideBySig
+    GetNumStreamChannels(): PrivateScope, Public, HideBySig
+    GetGigEStreamChannelInfo(UInt32): PrivateScope, Public, HideBySig
+    SetGigEStreamChannelInfo(UInt32, GigEStreamChannel): PrivateScope, Public, HideBySig
+Struct FlyCapture2.GigECamera: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0EH@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BB@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct FlyCapture2.BMPOption: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CF@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_34: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Class FlyCapture2Managed.ManagedUtilities: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  Interfaces:
+    System.IDisposable
+  Properties:
+    FlyCapture2Managed.FC2Version libraryVersion 'get ' : 
+    FlyCapture2Managed.SystemInfo systemInfo 'get ' : 
+  Methods:
+    get_systemInfo(): PrivateScope, Public, Static, HideBySig, SpecialName
+    get_libraryVersion(): PrivateScope, Public, Static, HideBySig, SpecialName
+    LaunchBrowser(String): PrivateScope, Public, Static, HideBySig
+    LaunchHelp(String): PrivateScope, Public, Static, HideBySig
+    CheckDriver(ManagedPGRGuid): PrivateScope, Public, Static, HideBySig
+    GetDriverDeviceName(ManagedPGRGuid): PrivateScope, Public, Static, HideBySig
+    LaunchCommand(String): PrivateScope, Public, Static, HideBySig
+    Dispose(): PrivateScope, Public, Final, Virtual, HideBySig
+Struct _GUID: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.bad_exception: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.allocator<void>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.logic_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.domain_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.invalid_argument: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.length_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.out_of_range: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.overflow_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.underflow_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.range_error: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._DebugHeapString: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Timevec: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _Ctypevec: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.codecvt_base: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.codecvt<wchar_t\,char\,int>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.codecvt<unsigned short\,char\,int>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ctype_base: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ctype<char>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ctype<wchar_t>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ctype<unsigned short>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ctype_byname<char>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ios_base: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ios_base+event: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std.ios_base+failure: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ios_base+Init: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ios_base+_Iosarray: AutoLayout, AnsiClass, Class, NestedAssembly, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ios_base+_Fnarray: AutoLayout, AnsiClass, Class, NestedAssembly, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_istream<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_istream<char\,std::char_traits<char> >+_Sentry_base: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_istream<char\,std::char_traits<char> >+sentry: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_istream<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_istream<wchar_t\,std::char_traits<wchar_t> >+_Sentry_base: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_istream<wchar_t\,std::char_traits<wchar_t> >+sentry: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.codecvt<char\,char\,int>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.num_get<char\,std::istreambuf_iterator<char\,std::char_traits<char> > >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.num_put<char\,std::ostreambuf_iterator<char\,std::char_traits<char> > >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.num_get<wchar_t\,std::istreambuf_iterator<wchar_t\,std::char_traits<wchar_t> > >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.num_put<wchar_t\,std::ostreambuf_iterator<wchar_t\,std::char_traits<wchar_t> > >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ios<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ios<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ostream<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ostream<char\,std::char_traits<char> >+_Sentry_base: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ostream<char\,std::char_traits<char> >+sentry: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ostream<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ostream<wchar_t\,std::char_traits<wchar_t> >+_Sentry_base: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_ostream<wchar_t\,std::char_traits<wchar_t> >+sentry: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_iostream<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.basic_iostream<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._DebugHeapAllocator<char>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(_DebugHeapAllocator<char>*, _DebugHeapAllocator<char>*): PrivateScope, Public, Static, SpecialName
+Struct std._DebugHeapAllocator<char>+rebind<char>: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._String_val<char\,std::_DebugHeapAllocator<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.ostreambuf_iterator<char\,std::char_traits<char> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(ostreambuf_iterator<char\,std::char_traits<char> >*, ostreambuf_iterator<char\,std::char_traits<char> >*): PrivateScope, Public, Static, SpecialName
+    <MarshalDestroy>(ostreambuf_iterator<char\,std::char_traits<char> >*): PrivateScope, Public, Static, SpecialName
+Struct std.ostreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+  Methods:
+    <MarshalCopy>(ostreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >*, ostreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >*): PrivateScope, Public, Static, SpecialName
+    <MarshalDestroy>(ostreambuf_iterator<wchar_t\,std::char_traits<wchar_t> >*): PrivateScope, Public, Static, SpecialName
+Struct std._Outit_with_base<std::_Iterator_base>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Iterator_with_base<std::output_iterator_tag\,void\,void\,void\,void\,std::_Iterator_base>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.fpos<int>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_s__RTTIBaseClassArray$_extraBytes_24: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _Collvec: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct localeinfo_struct: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY08Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _ldiv_t: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BA@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0M@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_19: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_s__RTTIBaseClassArray$_extraBytes_32: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagMSG: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct HWND__: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_22: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct HDC__: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagTEXTMETRICW: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY04D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagRECT: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0N@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0EA@D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std.bad_cast: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0DB@Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CA@D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagVARIANT: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagVARIANT+$UnnamedClass$0xe4976494$208$: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagVARIANT+$UnnamedClass$0xe4976494$208$+$UnnamedClass$0xe4976494$209$: AutoLayout, AnsiClass, Class, NestedAssembly, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagVARIANT+$UnnamedClass$0xe4976494$208$+$UnnamedClass$0xe4976494$209$+$UnnamedClass$0xe4976494$210$: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagVARIANT+$UnnamedClass$0xe4976494$208$+$UnnamedClass$0xe4976494$209$+$UnnamedClass$0xe4976494$210$+$UnnamedClass$0xe4976494$211$: AutoLayout, AnsiClass, Class, NestedAssembly, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_21: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_27: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0DM@D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY04Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _iobuf: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagPROPVARIANT: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagPROPVARIANT+$UnnamedClass$0xe4976494$216$: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagPROPVARIANT+$UnnamedClass$0xe4976494$216$+$UnnamedClass$0xe4976494$217$: AutoLayout, AnsiClass, Class, NestedAssembly, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagPROPVARIANT+$UnnamedClass$0xe4976494$216$+$UnnamedClass$0xe4976494$217$+$UnnamedClass$0xe4976494$218$: AutoLayout, AnsiClass, Class, NestedAssembly, ExplicitLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_TypeDescriptor$_extraBytes_26: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0GM@D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct $_s__CatchableTypeArray$_extraBytes_24: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _SECURITY_ATTRIBUTES: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY07D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Range_checked_iterator_tag: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY09Q6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY02D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY05D: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Iosb<int>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct std._Iosb<int>+_Dummy_enum: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std._Iosb<int>+_Fmtflags: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std._Iosb<int>+_Iostate: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std._Iosb<int>+_Openmode: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std._Iosb<int>+_Seekdir: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct std._Mutex: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0BA@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _FINDEX_INFO_LEVELS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct _FINDEX_SEARCH_OPS: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct <CppImplementationDetails>.$ArrayType$$$BY08$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0O@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.NativeDll: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.DefaultDomain: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.ActivationContext: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.LanguageSupport: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct gcroot<System::String ^>: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tagACTCTXW: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY00Q6MPEBXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct tm: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.Progress: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.Progress+State: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct <CppImplementationDetails>.$ArrayType$$$BY0A@P6AXXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0A@P6AHXZ: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct __enative_startup_state: AutoLayout, AnsiClass, Class, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct <CrtImplementationDetails>.TriBool: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.TriBool+State: AutoLayout, AnsiClass, Class, NestedPublic, Sealed, BeforeFieldInit
+  :System.Enum
+  Fields:
+    Int32 value__ : Public, SpecialName, RTSpecialName
+Struct tagTEXTMETRICA: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct _EXCEPTION_POINTERS: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct EHExceptionRecord: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct EHExceptionRecord+EHParameters: AutoLayout, AnsiClass, Class, NestedPublic, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0CD@$$CBD: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CppImplementationDetails>.$ArrayType$$$BY0L@$$CB_W: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.AtExitLock: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
+Struct <CrtImplementationDetails>.ThisModule: AutoLayout, AnsiClass, Class, SequentialLayout, Sealed, BeforeFieldInit
+  :System.ValueType
